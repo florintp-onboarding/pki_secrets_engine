@@ -1,4 +1,4 @@
-[![license](http://img.shields.io/badge/license-apache_2.0-red.svg?style=flat)](https://github.com/florintp-onboarding/pki_secrets_engine/LICENSE)
+[![license](http://img.shields.io/badge/license-apache_2.0-red.svg?style=flat)](https://github.com/florintp-onboarding/pki_secrets_engine/blob/main/LICENSE)
 
 # Working with PKI Secrets Engine
 
